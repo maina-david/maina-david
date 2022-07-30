@@ -1,10 +1,10 @@
-name: Work Stats Readme
+name: Waka Readme
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 1 hour
-    - cron: "0 */1 * * *"
+    # Runs at every 12AM UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
