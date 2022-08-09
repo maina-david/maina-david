@@ -58,8 +58,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=waihura&theme=radical)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waihura)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=waihura&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waihura)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <!--START_SECTION:waka-->
