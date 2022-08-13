@@ -65,12 +65,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```text
-PHP              15 hrs 51 mins  ████████████▒░░░░░░░░░░░░   49.35 %
-Vue.js           6 hrs 44 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
-JavaScript       4 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
-HTML             1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-Bash             1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Java             50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+PHP              24 hrs 37 mins  █████████████▒░░░░░░░░░░░   53.89 %
+Vue.js           6 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
+JavaScript       4 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+Blade Template   3 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Bash             1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+HTML             1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
