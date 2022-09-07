@@ -65,9 +65,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```text
-HTML         51 mins         ███████████████▒░░░░░░░░░   61.18 %
-Vue.js       26 mins         ████████░░░░░░░░░░░░░░░░░   31.81 %
-Other        5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Vue.js   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
