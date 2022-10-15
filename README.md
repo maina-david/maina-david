@@ -65,8 +65,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```text
-PHP     16 hrs 37 mins  ██████████████████▓░░░░░░   74.64 %
-Other   4 hrs 44 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
+PHP     14 hrs 5 mins   ██████████████████░░░░░░░   71.79 %
+Other   4 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   24.14 %
 ```
 
 <!--END_SECTION:waka-->
