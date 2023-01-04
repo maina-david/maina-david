@@ -65,12 +65,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```text
-PHP              32 hrs 55 mins  ███████████████████████░░   91.88 %
-Vue.js           44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Markdown         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Git Config       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-JSON             24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Dart             13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+PHP              26 hrs 29 mins  █████████████████████▓░░░   86.32 %
+Vue.js           58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Bash             34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Markdown         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+JSON             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Git Config       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
