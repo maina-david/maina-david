@@ -59,7 +59,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=maina-david&count_private=true&show_icons=true&theme=buefy" alt="maina-david" width="400" height="400"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=maina-david&count_private=true&show_icons=true&theme=buefy" alt="maina-david" width="400"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-david&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" alt="maina-david" width="400" height="400" />
  </p>
      
