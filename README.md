@@ -64,9 +64,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maina-david&show_icons=true&theme=radical" />
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maina-david&theme=radical" />
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maina-david&theme=radical)](https://git.io/streak-stats)
- 
 ---
 
 <!--START_SECTION:waka-->
