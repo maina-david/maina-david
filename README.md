@@ -73,11 +73,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: Languages Statistics :
 <p align="center">
-    <a href="#">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=maina_david" />
-  </a>
   <a href="#">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-david" />
+  </a>
+    <a href="#">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=maina_david" />
   </a>
 </p>
 
