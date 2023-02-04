@@ -57,7 +57,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### :fire: GitHub Statistics :
 <div style="height: 200px; width: 100%; overflow: hidden;">
   <p align="center">
     <a href="#">
@@ -69,6 +69,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </p>
 </div>
 
+---
+
+### :fire: Languages Statistics :
 <p align="center">
     <a href="#">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Waihura_Maina" />
