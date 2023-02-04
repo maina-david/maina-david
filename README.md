@@ -67,6 +67,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maina-david&theme=radical" />
 </a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maina-david&repo=github-readme-stats" />
+</a>
 
 ---
 
