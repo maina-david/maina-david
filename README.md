@@ -61,21 +61,23 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div style="height: 200px; width: 100%; overflow: hidden;">
   <p align="center">
     <a href="#">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-david&layout=compact" />
-    </a>
-    <a href="#">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Waihura_Maina" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="#">
       <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maina-david&show_icons=true&theme=radical" />
     </a>
     <a href="#">
       <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=maina-david&theme=radical" />
     </a>
   </p>
+</div>
+
+<p align="center">
+    <a href="#">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Waihura_Maina" />
+  </a>
+  <a href="#">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-david&layout=compact" />
+  </a>
+</p>
+
 </div>
 
 
