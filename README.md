@@ -58,12 +58,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-david" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maina-david&show_icons=true&theme=radical" />
+
      
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maina-david&theme=radical)](https://git.io/streak-stats)
  
