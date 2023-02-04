@@ -58,7 +58,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: GitHub Statistics :
-<div style="height: 200px; width: 100%; overflow: hidden;">
+<div style="width: 100%; overflow: hidden;">
   <p align="center">
     <a href="#">
       <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maina-david&show_icons=true&theme=radical" />
