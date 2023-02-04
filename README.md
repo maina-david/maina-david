@@ -77,7 +77,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=maina_david" />
   </a>
   <a href="#">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-david&layout=compact" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-david" />
   </a>
 </p>
 
