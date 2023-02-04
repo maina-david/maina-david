@@ -68,7 +68,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maina-david&theme=radical" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=maina-david" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Waihura_Maina" />
 </a>
 
 ---
