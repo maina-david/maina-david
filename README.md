@@ -58,6 +58,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+<img src="https://github-readme-stats.vercel.app/api?username=maina-david&count_private=true&show_icons=true&theme=buefy" alt="maina-david" width="420"/> 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maina-david&theme=radical)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maina-david)](https://github.com/anuraghazra/github-readme-stats)
 ---
