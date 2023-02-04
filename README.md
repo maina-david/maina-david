@@ -60,21 +60,22 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 <p align="center">
   <a href="#">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-david&layout=compact" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-david&layout=compact" />
   </a>
   <a href="#">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Waihura_Maina" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Waihura_Maina" />
   </a>
 </p>
 
 <p align="center">
   <a href="#">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=maina-david&show_icons=true&theme=radical" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maina-david&show_icons=true&theme=radical" />
   </a>
   <a href="#">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=maina-david&theme=radical" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=maina-david&theme=radical" />
   </a>
 </p>
+
 
 
 
