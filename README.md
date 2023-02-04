@@ -64,24 +64,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maina-david&show_icons=true&theme=radical" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maina-david&theme=radical" />
-</a>
+
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Waihura_Maina" />
 </a>
+<a href="#">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maina-david&theme=radical" />
+</a>
+
 
 ---
-
-<!--START_SECTION:waka-->
-
-```text
-PHP              32 hrs 56 mins  ███████████████████▒░░░░░   77.24 %
-Vue.js           5 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Blade Template   2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-SQL              34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-JavaScript       30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-CSS              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-```
-
-<!--END_SECTION:waka-->
