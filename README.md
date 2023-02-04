@@ -58,17 +58,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-david&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maina-david&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maina-david&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maina-david&repo=github-readme-stats" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=maina-david" />
 </a>
 
 ---
@@ -76,12 +76,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```text
-PHP              36 hrs 57 mins  ███████████████████▓░░░░░   78.01 %
-Vue.js           5 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-Blade Template   2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-HTML             38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-SQL              29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-JSON             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+PHP              32 hrs 56 mins  ███████████████████▒░░░░░   77.24 %
+Vue.js           5 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+Blade Template   2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+SQL              34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+JavaScript       30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+CSS              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
