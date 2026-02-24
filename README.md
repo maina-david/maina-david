@@ -88,11 +88,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=maina-david&theme=radical&border_radius=10" alt="GitHub Streak"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maina-david&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maina-david&theme=radical" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maina-david&layout=compact&theme=radical&border_radius=10" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maina-david&theme=radical" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maina-david&theme=radical" alt="Profile Details"/>
 </div>
 
 ---
@@ -100,7 +101,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maina-david&theme=redical&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maina-david&theme=radical&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
