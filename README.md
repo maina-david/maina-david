@@ -24,14 +24,14 @@
 
 <!-- Coding GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding animation"/>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Developer at computer"/> from Nairobi, Kenya.
 
 - 🔭 Working as a Software Engineer, contributing to frontend & backend for scalable web applications.
 - 🌱 Exploring Technical Content Writing & Cloud Architecture.
