@@ -1,112 +1,98 @@
-<!-- Animated Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=David%20Maina&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Nairobi%2C%20Kenya&descAlignY=55&descSize=18" width="100%" alt="David Maina - Full Stack Developer"/>
-</div>
 
-<!-- Social Badges -->
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=maina-david&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</div>
+<p><code>NAIROBI, KE · FULL-STACK ENGINEER</code></p>
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js+%7C+NestJS;Building+the+Future%2C+One+Line+at+a+Time;Open+to+Collaboration+%26+New+Opportunities" alt="Typing SVG"/>
-</div>
+# David Maina
 
-<!-- Coding GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding animation"/>
+### I turn complex product ideas into dependable software.
+
+Laravel specialist. TypeScript enthusiast. Product-minded engineer.
+
+<p>
+  <a href="https://maina-david.github.io"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:maina.david.online@gmail.com"><strong>Email</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/maina-david?tab=repositories"><strong>Projects</strong></a>
+</p>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## The short version
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Developer at computer"/> from Nairobi, Kenya.
+I am a full-stack software engineer based in Nairobi, building web platforms that are secure, maintainable, and pleasant to use. My strongest work sits at the intersection of **Laravel**, **React**, and **TypeScript**—from domain modelling and APIs to polished product interfaces.
 
-- 🔭 Working as a Software Engineer, contributing to frontend & backend for scalable web applications.
-- 🌱 Exploring Technical Content Writing & Cloud Architecture.
-- ⚡ In my free time, I solve problems on LeetCode and read tech articles.
-- 📬 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/#)
+I care about clear architecture, thoughtful UX, pragmatic testing, and shipping software that solves the actual problem.
 
----
+```text
+01  DISCOVER     Understand the users, constraints, and real goal
+02  DESIGN       Shape the domain, architecture, and interaction model
+03  DELIVER      Build, test, document, and iterate
+```
 
-### 🛠️ Tech Stack
+## Selected work
 
-#### Languages
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/maina-david/devcenterhouse">DCH Property Listing</a></h3>
+      <p>A property marketplace explored through two production-minded architectures: Laravel + React and NestJS + Angular.</p>
+      <p><code>Laravel</code> <code>React</code> <code>NestJS</code> <code>Angular</code> <code>PostgreSQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/maina-david/weather-ai">Mavuno Mirror</a></h3>
+      <p>Weather-powered farm intelligence that translates raw forecasts into practical decisions, alerts, and recommendations.</p>
+      <p><code>Next.js</code> <code>Express</code> <code>TypeScript</code> <code>Weather data</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/maina-david/secure-messenger">Secure Messenger</a></h3>
+      <p>A desktop messaging application focused on encrypted local data, resilient real-time sync, and layered architecture.</p>
+      <p><code>Electron</code> <code>React</code> <code>TypeScript</code> <code>AES-256-GCM</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/maina-david/maina-david.github.io">Portfolio</a></h3>
+      <p>A home for my work, experiments, and the engineering ideas I am currently exploring.</p>
+      <p><code>Web</code> <code>UI/UX</code> <code>Case studies</code></p>
+    </td>
+  </tr>
+</table>
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-</div>
+## Working toolkit
 
-#### Frameworks & Libraries
+| Area | Technologies |
+| --- | --- |
+| Backend | PHP, Laravel, Node.js, NestJS, Express |
+| Frontend | TypeScript, React, Next.js, Angular, Inertia.js, Tailwind CSS |
+| Data | PostgreSQL, MySQL, MongoDB, Redis |
+| Delivery | Docker, GitHub Actions, Linux, AWS |
+| Engineering | REST APIs, authentication, real-time systems, testing, system design |
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-</div>
+> Tools change. Good judgement, clear communication, and care for the end user remain.
 
-#### Databases & Cloud
+## Current direction
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-</div>
+- Building end-to-end products with robust Laravel and TypeScript foundations
+- Exploring cloud architecture, AI-assisted workflows, and developer experience
+- Open to thoughtful collaborations on useful, technically ambitious products
 
-#### DevOps & Tools
-
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=maina-david&theme=radical&border_radius=10" alt="GitHub Streak"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maina-david&theme=radical" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maina-david&theme=radical" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maina-david&theme=radical" alt="Profile Details"/>
-</div>
-
----
-
-### 📈 Contribution Activity
+## GitHub, at a glance
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maina-david&theme=radical&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maina-david&theme=github_dark" width="100%" alt="David Maina's GitHub contribution overview">
 </div>
 
 ---
 
-<!-- Animated Wave Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer wave"/>
+
+### Have an interesting problem to solve?
+
+<a href="mailto:maina.david.online@gmail.com">Let’s talk →</a>
+
+<sub>Designed with intent. Built with care.</sub>
+
 </div>
